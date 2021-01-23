@@ -1,0 +1,12 @@
+j,k,l,m,n,o,p,q,r
+Missisipi,Jackson
+Lousiana,Carson City
+New Mexico,Santa Fe
+Oklahoma,Oklahoma City
+Missouri,Jefferson City
+Minnesota,St. Paul
+Ohio,Columbus
+Kansas,Topeka
+Pennsylvania,Harrisburg
+Nebraska,Lincoln
+Nevada,Carson City

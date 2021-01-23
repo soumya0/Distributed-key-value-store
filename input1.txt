@@ -1,0 +1,10 @@
+a,b,c,d,e,f,g,h,i
+Colorado,Denver
+Hawaii,Honolulu
+Alaska,Juneau
+California,Sacramento
+Dakota,Bismarck
+Florida,Tallahassee
+Alabama,Montgomery
+Arkansas,Little Rock
+Arizona,Phoenix
